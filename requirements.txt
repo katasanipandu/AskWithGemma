@@ -1,0 +1,14 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+bs4
+arxiv
+pymupdf
+langchain-text-splitters
+faiss-cpu
+python-dotenv
+streamlit
+langchain_groq
+langchain_core
