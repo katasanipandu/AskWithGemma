@@ -15,3 +15,6 @@ A simple conversational AI web app built using **LangChain**, **Streamlit**, and
 
 Here's how the app looks:
 <img width="1891" height="843" alt="Screenshot 2025-07-20 203416" src="https://github.com/user-attachments/assets/77a842e7-0971-4fd1-90ea-79cc38233802" />
+## Key Learnings
+
+While building this project, I learned how to integrate Large Language Models using LangChain and Ollama. I gained hands-on experience in prompt engineering by creating structured system and user prompts, and understood how chaining works in LangChain by connecting prompt templates, LLMs, and output parsers into a complete AI workflow pipeline.
